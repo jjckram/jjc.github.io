@@ -1,0 +1,6 @@
+{    
+    "name": "JjcIptv",
+    "version": "1.0.0",
+    "parameter": "content:https://github.com/jjckram/jjc.github.io/content.json",
+    "welcome": "JJChome Iptv"
+}
